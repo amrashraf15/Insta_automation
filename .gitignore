@@ -1,0 +1,47 @@
+
+# Secrets and local configuration
+config.json
+.env
+.env.*
+!.env.example
+secrets/
+
+# Persistent browser profile and browser state
+instagram-browser-profile/
+browser-profile/
+user-data/
+profiles/
+
+# Virtual environments and Python cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local media
+videos/
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Selenium diagnostics
+screenshots/
+logs/
+instagram_error.png
+instagram_error.html
+instagram_create_error.*
+instagram_caption_error.*
+instagram_share_*.png
+instagram_share_*.html
+instagram_publish_*.png
+instagram_publish_*.html
+
+# IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

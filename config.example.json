@@ -1,0 +1,15 @@
+
+{
+  "instagram": {
+    "username": "YOUR_INSTAGRAM_USERNAME",
+    "password": "SET_LOCALLY"
+  },
+  "browser": {
+    "brave_path": "C:\\Path\\To\\brave.exe",
+    "profile_dir": "browser-profile"
+  },
+  "reel": {
+    "video_path": "videos/example.mp4",
+    "caption": "Your caption here\n\nYour second paragraph"
+  }
+}
